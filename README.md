@@ -2,6 +2,5 @@
 - milu#2047
 
 # links
-- https://z0mbie.tk
-- https://milu.cf
-- https://discord.gg/edgebug
+- https://zmbie.tk
+- https://spacehey.com/bin
